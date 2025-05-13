@@ -20,3 +20,6 @@ docker run -d -p 8088:3000 --name welcome-to-docker welcome-to-docker
 Open `http://localhost:8088` in your browser.
 
 Added a new line of code in the 'Readme.md' file. 
+
+Another line of code added to the file. Now we need to test the changes of git push. 
+Transfer of any changes from local repository to remote repository then we should use git push
