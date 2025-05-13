@@ -26,3 +26,5 @@ Transfer of any changes from local repository to remote repository then we shoul
 
 Now we need to test changes from remote repository to local repository. 
 Transfer of any changes from remote repository to remote repository then we should use git fetch command
+
+Now test git fetch and git merge commands
