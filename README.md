@@ -23,3 +23,6 @@ Added a new line of code in the 'Readme.md' file.
 
 Another line of code added to the file. Now we need to test the changes of git push. 
 Transfer of any changes from local repository to remote repository then we should use git push
+
+Now we need to test changes from remote repository to local repository. 
+Transfer of any changes from remote repository to remote repository then we should use git fetch command
